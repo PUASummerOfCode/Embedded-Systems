@@ -1,4 +1,4 @@
-# Embedded-systems
+# Lamp control
 This project is about to control a 220 volt lamp using Node-MCU chip and android
 phase one:
 	steps:
@@ -8,3 +8,5 @@ phase one:
 		Notice that in the fritzing file the led indicates the lamp, and the 9 volt indicates the 220 volt AC power.
 		4- open the browser and enter the chip IP address it will open a page with two buttons "On" and "OFF".
 		5- try clicking on and off to switch the state of the lamp :D.
+
+		
