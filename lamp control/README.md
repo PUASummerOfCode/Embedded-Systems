@@ -1,4 +1,4 @@
-# Embedded-systems
+# Lamp Control
 This project is about to control a 220 volt lamp using Node-MCU chip and android
 phase one:
 	steps:
